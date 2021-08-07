@@ -1,0 +1,13 @@
+Papers:
+    A Neural Algorithm of Artistic Style                            -   https://arxiv.org/abs/1508.06576
+    Attriblt: Content Creation with Semantic Attributes             -   https://people.cs.umass.edu/~kalo/papers/attribit/AttribIt.pdf
+    Interchangeable Components for Hands-On Assembly Based Modeling -   https://www.cs.umb.edu/~craigyu/papers/handson_low_res.pdf
+    Analogy-Driven 3D Style Transfer                                -   http://www.chongyangma.com/publications/st/2014_st_preprint.pdf
+
+ Repositories:
+    manuelruder/artistic-videos
+    jcjohnson/neural-style
+    Adi-iitd/AI-Art
+    muhdhuz/Audio_NeuralStyle
+    robbiebarrat/Sculpture-GAN
+    hiroharu-kato/neural_renderer
